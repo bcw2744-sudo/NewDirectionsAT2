@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>newdirectionsAT</title>
+    <title>New Directions AT</title>
     <link href="https://bcw2744-sudo.github.io/NewDirectionsAT2/feed.xml" rel="self" />
     <link href="https://bcw2744-sudo.github.io/NewDirectionsAT2" />
-    <updated>2025-10-26T14:28:06-04:00</updated>
+    <updated>2025-10-29T15:42:28-04:00</updated>
     <author>
         <name>Benji Wason</name>
     </author>
     <id>https://bcw2744-sudo.github.io/NewDirectionsAT2</id>
 
+    <entry>
+        <title>Book Alexander Technique Lessons with a Qualified Teacher</title>
+        <author>
+            <name>Benji Wason</name>
+        </author>
+        <link href="https://bcw2744-sudo.github.io/NewDirectionsAT2/book-alexander-technique-lessons-with-a-qualified-teacher.html"/>
+        <id>https://bcw2744-sudo.github.io/NewDirectionsAT2/book-alexander-technique-lessons-with-a-qualified-teacher.html</id>
+
+        <updated>2025-10-29T15:41:04-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test 2</title>
+        <author>
+            <name>Benji Wason</name>
+        </author>
+        <link href="https://bcw2744-sudo.github.io/NewDirectionsAT2/test-2.html"/>
+        <id>https://bcw2744-sudo.github.io/NewDirectionsAT2/test-2.html</id>
+
+        <updated>2025-10-27T15:40:17-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Test Post</title>
         <author>

@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "newdirectionsAT",
+    "title": "New Directions AT",
     "description": "",
     "home_page_url": "https://bcw2744-sudo.github.io/NewDirectionsAT2",
     "feed_url": "https://bcw2744-sudo.github.io/NewDirectionsAT2/feed.json",
@@ -9,6 +9,31 @@
         "name": "Benji Wason"
     },
     "items": [
+        {
+            "id": "https://bcw2744-sudo.github.io/NewDirectionsAT2/book-alexander-technique-lessons-with-a-qualified-teacher.html",
+            "url": "https://bcw2744-sudo.github.io/NewDirectionsAT2/book-alexander-technique-lessons-with-a-qualified-teacher.html",
+            "title": "Book Alexander Technique Lessons with a Qualified Teacher",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"undefined\" alt=\"\" data-is-external-image=\"true\"></figure>",
+            "author": {
+                "name": "Benji Wason"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-29T15:41:04-04:00",
+            "date_modified": "2025-10-29T15:42:28-04:00"
+        },
+        {
+            "id": "https://bcw2744-sudo.github.io/NewDirectionsAT2/test-2.html",
+            "url": "https://bcw2744-sudo.github.io/NewDirectionsAT2/test-2.html",
+            "title": "Test 2",
+            "author": {
+                "name": "Benji Wason"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-10-27T15:40:17-04:00",
+            "date_modified": "2025-10-27T15:40:17-04:00"
+        },
         {
             "id": "https://bcw2744-sudo.github.io/NewDirectionsAT2/test-post.html",
             "url": "https://bcw2744-sudo.github.io/NewDirectionsAT2/test-post.html",
