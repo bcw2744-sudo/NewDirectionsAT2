@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://bcw2744-sudo.github.io/NewDirectionsAT2/sitemap.xml
+Sitemap: https://newdirectionsat.com/sitemap.xml
