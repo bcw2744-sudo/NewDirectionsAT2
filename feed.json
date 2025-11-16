@@ -9,43 +9,5 @@
         "name": "Benji Wason"
     },
     "items": [
-        {
-            "id": "https://newdirectionsat.com/book-alexander-technique-lessons-with-a-qualified-teacher.html",
-            "url": "https://newdirectionsat.com/book-alexander-technique-lessons-with-a-qualified-teacher.html",
-            "title": "Book Alexander Technique Lessons with a Qualified Teacher",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"undefined\" alt=\"\" data-is-external-image=\"true\"></figure>",
-            "author": {
-                "name": "Benji Wason"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-29T15:41:04-04:00",
-            "date_modified": "2025-10-29T15:42:28-04:00"
-        },
-        {
-            "id": "https://newdirectionsat.com/test-2.html",
-            "url": "https://newdirectionsat.com/test-2.html",
-            "title": "Test 2",
-            "author": {
-                "name": "Benji Wason"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-27T15:40:17-04:00",
-            "date_modified": "2025-10-27T15:40:17-04:00"
-        },
-        {
-            "id": "https://newdirectionsat.com/test-post.html",
-            "url": "https://newdirectionsat.com/test-post.html",
-            "title": "Test Post",
-            "content_html": "\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "Benji Wason"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-10-26T14:28:06-04:00",
-            "date_modified": "2025-10-26T14:28:06-04:00"
-        }
     ]
 }
